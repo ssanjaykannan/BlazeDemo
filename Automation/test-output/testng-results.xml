@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21456" started-at="2020-10-17T16:37:09Z" finished-at="2020-10-17T16:37:30Z">
+  <suite name="Default suite" duration-ms="16012" started-at="2020-10-17T16:47:15Z" finished-at="2020-10-17T16:47:31Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21456" started-at="2020-10-17T16:37:09Z" finished-at="2020-10-17T16:37:30Z">
+    <test name="Default test" duration-ms="16012" started-at="2020-10-17T16:47:15Z" finished-at="2020-10-17T16:47:31Z">
       <class name="Jenkins.Automation.SampleScript">
-        <test-method status="PASS" signature="launchURl()[pri:0, instance:Jenkins.Automation.SampleScript@551aa95a]" name="launchURl" is-config="true" duration-ms="12245" started-at="2020-10-17T16:37:09Z" finished-at="2020-10-17T16:37:21Z">
+        <test-method status="PASS" signature="launchURl()[pri:0, instance:Jenkins.Automation.SampleScript@551aa95a]" name="launchURl" is-config="true" duration-ms="8421" started-at="2020-10-17T16:47:15Z" finished-at="2020-10-17T16:47:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchURl -->
-        <test-method status="PASS" signature="FindFlight()[pri:1, instance:Jenkins.Automation.SampleScript@551aa95a]" name="FindFlight" duration-ms="3962" started-at="2020-10-17T16:37:21Z" finished-at="2020-10-17T16:37:25Z">
+        <test-method status="PASS" signature="FindFlight()[pri:1, instance:Jenkins.Automation.SampleScript@551aa95a]" name="FindFlight" duration-ms="3710" started-at="2020-10-17T16:47:24Z" finished-at="2020-10-17T16:47:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FindFlight -->
-        <test-method status="PASS" signature="ChooseFlight()[pri:2, instance:Jenkins.Automation.SampleScript@551aa95a]" name="ChooseFlight" duration-ms="4797" started-at="2020-10-17T16:37:25Z" finished-at="2020-10-17T16:37:30Z">
+        <test-method status="PASS" signature="ChooseFlight()[pri:2, instance:Jenkins.Automation.SampleScript@551aa95a]" name="ChooseFlight" duration-ms="3705" started-at="2020-10-17T16:47:27Z" finished-at="2020-10-17T16:47:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ChooseFlight -->
-        <test-method status="PASS" signature="Teardown()[pri:0, instance:Jenkins.Automation.SampleScript@551aa95a]" name="Teardown" is-config="true" duration-ms="337" started-at="2020-10-17T16:37:30Z" finished-at="2020-10-17T16:37:30Z">
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Jenkins.Automation.SampleScript@551aa95a]" name="Teardown" is-config="true" duration-ms="56" started-at="2020-10-17T16:47:31Z" finished-at="2020-10-17T16:47:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
